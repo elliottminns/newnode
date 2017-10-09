@@ -1,0 +1,4 @@
+{
+  "MONGO_DATABASE_NAME": "newnode",
+  "MONGO_URL": "mongodb://localhost:27017"
+}
